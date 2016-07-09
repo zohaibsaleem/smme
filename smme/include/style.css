@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+main
+{
+	background:url(bg-pattern.jpg) repeat-x center top;
+	min-height: 1318px;
+}
+body
+{
+	margin:0px;
+	background:url(bg-body.jpg) repeat left bottom;
+}
